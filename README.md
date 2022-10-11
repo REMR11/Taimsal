@@ -6,7 +6,7 @@
 * ***Cumplir con los estandares de calidad y servisio que exijan nuestros clientes en la industria***
 #
 
-# Tecnologias
+## Tecnologias
 * ##  [Tailwind CSS](https://tailwindcss.com/)
   Framework de css utilizado para el diseño del sitio web y parte de sus animaciones
 * ## [Leaflet js](https://leafletjs.com/)
